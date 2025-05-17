@@ -1,4 +1,4 @@
-# Job Portal with Authentication and Resume Customization
+# Job Portal with Mock Interviewer, Authentication and Resume Customization
 
 A comprehensive job portal application with job listings, application tracking, AWS Cognito authentication, and AI-powered resume customization features.
 
